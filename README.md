@@ -1,4 +1,4 @@
-# aws-serverless-tools
+# serverless-tools
 A toolset that simplifies the deployment of serverless projects
 
 # Background
@@ -6,13 +6,13 @@ Serverless web architectures have become my preferred model for hosting Web appl
 The only downside is that there's a lot to configure and security can quickly be compromised to "get the thing running".
 
 I needed a single tool that I could use to help with:
-1. [] Setting up individual services (S3, Lamda, WebApis etc)
-2. [] Compiling and deploying code and pushing updates quickly
-3. [] Setting up regional failovers
-4. [] Testing or triggering disaster recovery scenarios
-5. [] Setting up monitoring dashboards
-6. [] Setting up alarms and notifications
-7. [] Auditing security configurations and best practises
+[ ] Setting up individual services (S3, Lamda, WebApis etc)
+[ ] Compiling and deploying code and pushing updates quickly
+[ ] Setting up regional failovers
+[ ] Testing or triggering disaster recovery scenarios
+[ ] Setting up monitoring dashboards
+[ ] Setting up alarms and notifications
+[ ] Auditing security configurations and best practises
 
 # Scope
 As a first version I'm planning on supporting the following providers and frameworks in v1 as they form part of my own preferred dev stack
